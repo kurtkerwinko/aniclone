@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Aniclone
+
+A simple anime/manga app with data retrieved from the [Anilist GraphQL API](https://graphql.anilist.co) written in [Next.js](https://nextjs.org/)
 
 ## Getting Started
 
